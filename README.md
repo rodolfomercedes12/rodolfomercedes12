@@ -25,6 +25,8 @@ Conocimientos:
 - 🍃 MongoDB
 
 
+Lenguajes utilizados:
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodolfomercedes12)](https://github.com/rodolfomercedes12/github-readme-stats)
 
 
