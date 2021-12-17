@@ -5,9 +5,9 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Devshia.
-- 🌱 I’m currently learning ... NodeJs.
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working on Devshia
+- 🌱 I’m currently learning ... NodeJs
+- 👯 I’m looking to collaborate on ... Android & IOS Apps.
 - 🤔 I’m looking for help with ... AWS.
 - 💬 Ask me about ... Flutter & Dart.
 - 📫 How to reach me: rodolfomercedes12@gmail.com
