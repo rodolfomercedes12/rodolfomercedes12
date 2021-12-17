@@ -15,7 +15,7 @@ Una breve introducción a mi perfíl:
 ### Habilidades
 
 
-Conocimientos:
+Conocimientos en:
 
 - 📱 Flutter
 - 🔵 Dart
