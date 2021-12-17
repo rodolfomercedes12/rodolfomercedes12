@@ -12,5 +12,19 @@ Una breve introducción a mi perfíl:
 
 
 
+### Habilidades
+
+
+Conocimientos:
+
+- 📱 Flutter
+- 🔵 Dart
+- 🟠 Firebase
+- 🟡 JavaScript
+- 🟢 NodeJs
+- 🍃 MongoDB
+
+
+
 
  
