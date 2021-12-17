@@ -29,7 +29,7 @@ Conocimientos en:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodolfomercedes12)](https://github.com/rodolfomercedes12/github-readme-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodolfomercedes12&show_icons=true&theme=radical)
+
 
 
 
