@@ -1,6 +1,6 @@
 
 
-<img src="https://user-images.githubusercontent.com/70710884/146619444-4c8517f9-7bcb-487c-9a54-4b0dee1e5c4b.png" width="400" height="300" />https://user-images.githubusercontent.com/70710884/146619444-4c8517f9-7bcb-487c-9a54-4b0dee1e5c4b.png" width="200" height="400
+<img src="https://user-images.githubusercontent.com/70710884/146619444-4c8517f9-7bcb-487c-9a54-4b0dee1e5c4b.png" width="400" height="300" /> <img src="https://user-images.githubusercontent.com/70710884/146619444-4c8517f9-7bcb-487c-9a54-4b0dee1e5c4b.png" width="400" height="300" />
 
 ### Hola! 👋
 
