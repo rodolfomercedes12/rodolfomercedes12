@@ -27,7 +27,6 @@ Conocimientos:
 
 
 
-![Screenshot_1639689156](https://user-images.githubusercontent.com/70710884/146609455-a4acb36e-f7b8-478d-9523-e1a5749dccad.png)
 
 
 
