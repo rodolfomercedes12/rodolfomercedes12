@@ -25,7 +25,6 @@ Conocimientos:
 - 🍃 MongoDB
 
 
-![](https://img.shields.io/badge/Left-Right-informational?style=flat&logo=Logo Name&logoColor=white&color=2bbc8a)
 
 
 
