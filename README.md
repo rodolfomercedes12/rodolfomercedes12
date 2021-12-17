@@ -14,7 +14,7 @@ Una breve introducción a mi perfíl:
 
 
 
-### Habilidades
+### Habilidades 💻
 
 
 Conocimientos en:
@@ -27,7 +27,7 @@ Conocimientos en:
 - 🍃 MongoDB
 
 
-### Lenguajes utilizados en mis proyectos:
+### Lenguajes utilizados en mis proyectos: 📱
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodolfomercedes12)](https://github.com/rodolfomercedes12/github-readme-stats)
 
