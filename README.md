@@ -37,8 +37,13 @@ Conocimientos en:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodolfomercedes12)](https://github.com/rodolfomercedes12/github-readme-stats)
 
 
+### Algunos de mis Diseños
 
 
+<img src="https://user-images.githubusercontent.com/70710884/146621118-81f5884c-9d22-44c3-ad68-56eded996068.png"/>
+
+![Screenshot_1639785778](https://user-images.githubusercontent.com/70710884/146621118-81f5884c-9d22-44c3-ad68-56eded996068.png)
+![Screenshot_1639785772](https://user-images.githubusercontent.com/70710884/146621119-b313adf3-9ce5-4831-9670-7b4658147f14.png)
 
 
 
