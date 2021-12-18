@@ -40,7 +40,7 @@ Conocimientos en:
 ### Algunos de mis Diseños
 
 
-<img src="https://user-images.githubusercontent.com/70710884/146621118-81f5884c-9d22-44c3-ad68-56eded996068.png" width="200" height="200"/>
+<img src="https://user-images.githubusercontent.com/70710884/146621118-81f5884c-9d22-44c3-ad68-56eded996068.png" width="200" height="400"/>
 
 
 
