@@ -42,7 +42,7 @@ Conocimientos en:
 
 AlertTap 📍
 
-<img src="https://user-images.githubusercontent.com/70710884/146621600-ef314016-71e2-4398-a140-5b69fe5faa06.png" width="300" height="600" margin-right:10px />        <img src="https://user-images.githubusercontent.com/70710884/146621601-6c86643b-7c06-40d4-b03a-8bd304ff09a5.png" width="300" height="600" margin-right:10px/>
+<img src="https://user-images.githubusercontent.com/70710884/146686399-30aed917-e0cc-4974-a9a6-2b4b5c02dad8.png"/> 
 
 <br>
 <br>
@@ -53,7 +53,7 @@ CommentTaxi 🚖
 
 <img src="https://user-images.githubusercontent.com/70710884/146623307-36449ced-7c09-4a82-a3a5-2a06c58158d4.png" width="300" height="600" margin-right:10px />        <img src="https://user-images.githubusercontent.com/70710884/146623308-609c72a2-e16d-4bcd-8535-070aaf74a659.png" width="300" height="600" margin-right:10px/>    <img src="https://user-images.githubusercontent.com/70710884/146623309-22da5394-c21d-47cd-9609-b7e2d3d3015b.png" width="300" height="600" margin-right:10px/>
 
-<img src="https://user-images.githubusercontent.com/70710884/146686399-30aed917-e0cc-4974-a9a6-2b4b5c02dad8.png"/> 
+
 
 
 
