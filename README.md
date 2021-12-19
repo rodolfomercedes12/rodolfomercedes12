@@ -44,9 +44,7 @@ AlertTap 📍
 
 <img src="https://user-images.githubusercontent.com/70710884/146686399-30aed917-e0cc-4974-a9a6-2b4b5c02dad8.png"/> 
 
-<br>
-<br>
-<br>
+
 CommentTaxi 🚖
 <br>
 
