@@ -26,10 +26,11 @@ Conocimientos en:
 
 - 📱 Flutter
 - 🔵 Dart
-- 🟠 Firebase
+- 🔥 Firebase
 - 🟡 JavaScript
 - 🟢 NodeJs
 - 🍃 MongoDB
+- 🟠 Figma
 
 
 ### Lenguajes utilizados en mis proyectos: 📱
