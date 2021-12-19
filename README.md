@@ -47,15 +47,10 @@ AlertTap 📍
 <img src="https://user-images.githubusercontent.com/70710884/146692877-ccf08da3-8f7f-44c4-8b1f-a3133726d569.png"/> 
 <br>
 <img src="https://user-images.githubusercontent.com/70710884/146687699-f179fd6f-17f9-4b9b-a2b3-4266385ba5d8.png"/> 
-
-
-
-
-CommentTaxi 🚖
 <br>
+<img src="https://user-images.githubusercontent.com/70710884/146693284-f9f2d80a-e6a9-4027-9db9-afce4700c3d9.png"/>
 
 
-<img src="https://user-images.githubusercontent.com/70710884/146623307-36449ced-7c09-4a82-a3a5-2a06c58158d4.png" width="300" height="600" margin-right:10px />        <img src="https://user-images.githubusercontent.com/70710884/146623308-609c72a2-e16d-4bcd-8535-070aaf74a659.png" width="300" height="600" margin-right:10px/>    <img src="https://user-images.githubusercontent.com/70710884/146623309-22da5394-c21d-47cd-9609-b7e2d3d3015b.png" width="300" height="600" margin-right:10px/>
 
 
 
