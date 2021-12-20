@@ -59,7 +59,7 @@ SeeUHere 🥳
 <br>
 
 ShopMe 🛒
-<img src="https://user-images.githubusercontent.com/70710884/146696602-986c2b64-8d0c-4fdc-9d05-33dac25432ed.png"/>
+<img src="https://user-images.githubusercontent.com/70710884/146696602-986c2b64-8d0c-4fdc-9d05-33dac25432ed.png" width="300" height="600"/>
 
 
 
