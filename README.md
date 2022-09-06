@@ -40,7 +40,12 @@ Conocimientos en:
 
 ### Algunos de mis Diseños
 
-
+FastFood 🍔
+<img src="https://user-images.githubusercontent.com/70710884/188691876-773b9b7a-c048-4478-bc0f-02bb0ff8d884.png" />
+<br>
+myTravel ✈️
+<img src="https://user-images.githubusercontent.com/70710884/188752726-2c4694ff-5441-4c85-bbdf-d68b84480f76.png" />
+<br>
 AlertTap 📍
 
 <img src="https://user-images.githubusercontent.com/70710884/146686399-30aed917-e0cc-4974-a9a6-2b4b5c02dad8.png"/> 
@@ -71,13 +76,8 @@ FindUrPet 🐶
 <img src="https://user-images.githubusercontent.com/70710884/147967010-bc0fea51-f3fd-450d-b9ed-55162a400560.png" />
 <img src="https://user-images.githubusercontent.com/70710884/147967016-5bd6fb3b-1bd6-4f6b-aa43-dfc92d07df7e.png" />
 <br>
-FastFood 🍔
-<img src="https://user-images.githubusercontent.com/70710884/188691876-773b9b7a-c048-4478-bc0f-02bb0ff8d884.png" />
-<br>
-myTravel 
-<img src="https://user-images.githubusercontent.com/70710884/188752726-2c4694ff-5441-4c85-bbdf-d68b84480f76.png" />
-<br>
-:blush:
+
+
 
 
 
