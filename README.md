@@ -71,7 +71,7 @@ FindUrPet 🐶
 <img src="https://user-images.githubusercontent.com/70710884/147967010-bc0fea51-f3fd-450d-b9ed-55162a400560.png" />
 <img src="https://user-images.githubusercontent.com/70710884/147967016-5bd6fb3b-1bd6-4f6b-aa43-dfc92d07df7e.png" />
 <br>
-FastFood
+FastFood 🍔
 <img src="https://user-images.githubusercontent.com/70710884/188691876-773b9b7a-c048-4478-bc0f-02bb0ff8d884.png" />
 
 
