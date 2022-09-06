@@ -74,10 +74,10 @@ FindUrPet 🐶
 FastFood 🍔
 <img src="https://user-images.githubusercontent.com/70710884/188691876-773b9b7a-c048-4478-bc0f-02bb0ff8d884.png" />
 <br>
-myTravel
+myTravel 
 <img src="https://user-images.githubusercontent.com/70710884/188752726-2c4694ff-5441-4c85-bbdf-d68b84480f76.png" />
 <br>
-
+:blush:
 
 
 
