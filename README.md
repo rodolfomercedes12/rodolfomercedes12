@@ -41,7 +41,7 @@ Conocimientos en:
 
 RoofDeck 🏠
 
-<img src="https://user-images.githubusercontent.com/70710884/70710884/63c6c36d-020a-405a-9374-f84d813200d9.png" />
+
 <br>
 FastFood 🍔
 <img src="https://user-images.githubusercontent.com/70710884/188691876-773b9b7a-c048-4478-bc0f-02bb0ff8d884.png" />
