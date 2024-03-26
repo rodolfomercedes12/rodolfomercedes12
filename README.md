@@ -37,7 +37,7 @@ Conocimientos en:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rodolfomercedes12)](https://github.com/rodolfomercedes12/github-readme-stats)
 
 
-### Algunos de mis Diseños
+### Algunos de mis Proyectos
 
 RoofDeck 🏠
 ![roofdeck-mockup-1](https://github.com/rodolfomercedes12/rodolfomercedes12/assets/70710884/c075ab17-ef52-4477-9413-0eb89881d3a8)
