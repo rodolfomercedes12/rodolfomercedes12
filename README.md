@@ -42,6 +42,9 @@ Conocimientos en:
 RoofDeck 🏠
 ![roofdeck-mockup-1](https://github.com/rodolfomercedes12/rodolfomercedes12/assets/70710884/c075ab17-ef52-4477-9413-0eb89881d3a8)
 <br>
+![roofdeck-mockup-2](https://github.com/rodolfomercedes12/rodolfomercedes12/assets/70710884/b316e23e-39a0-4400-a83c-4fe49c47abc7)
+
+<br>
 FastFood 🍔
 <img src="https://user-images.githubusercontent.com/70710884/188691876-773b9b7a-c048-4478-bc0f-02bb0ff8d884.png" />
 <br>
