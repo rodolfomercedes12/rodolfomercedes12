@@ -11,7 +11,6 @@
 
 Una breve introducción a mi perfíl:
 
-- 👍 Actualmente colaborando en Sherpapps
 - 📱 Me gustaría colaborar en ... Aplicaciones para Android & IOS.
 - 💻 Preguntame acerca de ... Flutter & Dart.
 - 📫 Contactarme: rodolfodev01@gmail.com
